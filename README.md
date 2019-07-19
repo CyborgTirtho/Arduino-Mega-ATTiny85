@@ -35,7 +35,7 @@ At first, get the ATTiny 85 support on the Arduino IDE. For this, you need to go
         ATtiny Pin 8 to VCC (5V)
         Mega Pin 53 --> ATtiny Pin 1 (SS)
      
-     **connect a capacitor between Ground and RESET to the Arduino Mega.
+     **connect a capacitor of 10uf between Ground and RESET to the Arduino Mega.
       
 13.Now For Example,let us select LED blink sketch to upload to ATtiny 85: Open the sketch.
 
