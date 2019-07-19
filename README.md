@@ -35,6 +35,12 @@ At first, get the ATTiny 85 support on the Arduino IDE. For this, you need to go
 
 11.And upload the File : ArduinoISP.ino 
 
+
+
+![](image/attiny.jpg)
+
+
+
 12.Now connect your pin as described Below:
    
         Mega Pin 51 --> ATtiny Pin 5 (MOSI)
@@ -45,6 +51,16 @@ At first, get the ATTiny 85 support on the Arduino IDE. For this, you need to go
         Mega Pin 53 --> ATtiny Pin 1 (SS)
      
      **connect a capacitor of 10uf between Ground and RESET to the Arduino Mega.
+     
+     
+     
+     
+     
+     
+     
+     
+ ![](image/img5.png)
+
       
 13.Now For Example,let us select LED blink sketch to upload to ATtiny 85: Open the sketch.
 
@@ -67,6 +83,10 @@ At first, get the ATTiny 85 support on the Arduino IDE. For this, you need to go
 ![](image/img8.jpg)
 
 ![](image/img9.jpg)
+
+
+![](image/img10.jpg)
+
 
 
 
