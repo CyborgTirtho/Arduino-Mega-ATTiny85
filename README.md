@@ -1,0 +1,2 @@
+# Ardino-Mega-ATTiny85
+Programming ATTiny85 using Arduino MEGA2560 as ISP.  A few months ago I was trying to shrink my Arduino project using my Attiny 85 ic. It was the first time I was trying to Program a 20u ATTiny 85 using my Arduino Mega. I had faced some problem to do so. I searched over the internet but there was no project which clearly described the method to do so. All the methods are described using Arduino Uno as ISP but not described how to use Arduino Mega as ISP. There is a little change of code in "ArduinoISP" sketch while we are using Arduino Mega as ISP. 
